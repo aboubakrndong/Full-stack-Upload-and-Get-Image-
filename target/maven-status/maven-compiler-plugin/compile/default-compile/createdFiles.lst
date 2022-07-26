@@ -1,0 +1,4 @@
+com\javainuse\db\ImageRepository.class
+com\javainuse\controller\ImageUploadController.class
+com\javainuse\ImageUploadApplication.class
+com\javainuse\model\ImageModel.class
